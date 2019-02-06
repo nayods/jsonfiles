@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wadoo.uhealth",
+      "sha256_cert_fingerprints":
+      ["20:53:2A:2A:E5:C2:25:40:AE:69:D6:60:D8:D0:58:B5:CE:95:21:E5:2B:CB:F6:BF:78:26:81:FF:0B:24:4B:61"]
+    }
+  }]
